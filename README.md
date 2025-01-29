@@ -8,6 +8,7 @@ Using:
 - DataAdapter
 - Win Forms
 - C#
+- .Net Framework 
 
 Sample_0:
 
