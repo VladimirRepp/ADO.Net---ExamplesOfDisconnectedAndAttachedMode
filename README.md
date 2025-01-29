@@ -1,4 +1,4 @@
-# ADO.Net---Examples-of-disconnected-and-attached-mode
+# ADO.Net---Examples of disconnected and attached mode
 Examples of disconnected and attached mode Using ADO.Net 
 
 Using:
