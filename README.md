@@ -8,7 +8,8 @@ Using:
 - DataAdapter
 - Win Forms
 - C#
-- .Net Framework 
+- .Net Framework
+- IDE: MVS 2022
 
 Sample_0:
 
